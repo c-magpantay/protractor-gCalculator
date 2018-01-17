@@ -1,0 +1,29 @@
+[
+  {
+    "description": "Google Calculator should solve the equation",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2776
+  },
+  {
+    "description": "Google Calculator should solve the equation",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 5175
+  },
+  {
+    "description": "Google Calculator should solve the equation",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 13252
+  }
+]
